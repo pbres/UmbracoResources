@@ -27,10 +27,7 @@ The goal of this repo is to gather useful resources around the web to help peopl
 
 [External Indexes by Rasmus Fjord:](https://24days.in/umbraco-cms/2016/custom-data-and-examine-searching/) Getting custom data into a custom Examine index.
 
-
-[Getting umbraco content: comparison of methods to get umbraco content by Tim Payne](http://skrift.io/articles/archive/testing-the-performance-of-querying-umbraco/) tl;dr: avoid using Typed Search. Query with examine "Search" and take content with Umbraco.TypedContent(id).
-
 [Multindex Searching:](https://bszyman.com/blog/multi-index-search-in-umbraco-using-examine) Examine searching through all indexes.
 
 ## Querying 
-[Testing performance of different types of queries in Umbraco](http://skrift.io/articles/archive/testing-the-performance-of-querying-umbraco/) by [Tim Payne](https://twitter.com/attack_monkey) 
+[Getting umbraco content: comparison of methods to get umbraco content by Tim Payne](http://skrift.io/articles/archive/testing-the-performance-of-querying-umbraco/) tl;dr: avoid using Typed Search. Query with examine "Search" and take content with Umbraco.TypedContent(id).
