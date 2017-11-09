@@ -22,7 +22,9 @@ The goal of this repo is to gather useful resources around the web to help peopl
 
 ## Examine 
 [Overview & Explanation by Peter Gregory"](https://our.umbraco.org/documentation/reference/searching/examine/overview-explanation)
+
 [Example by Rasmus Fjord](https://24days.in/umbraco-cms/2013/getting-started-with-examine/)
+
 [More documentation by Shazwazza](https://github.com/Shazwazza/Examine/wiki)
 
 [External Indexes by Rasmus Fjord:](https://24days.in/umbraco-cms/2016/custom-data-and-examine-searching/) Getting custom data into a custom Examine index.
