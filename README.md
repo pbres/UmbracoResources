@@ -14,7 +14,7 @@ The goal of this repo is to gather useful resources around the web to help peopl
 [Examples](http://www.nibble.be/)
 
 
-### Multilingual websites with Vorto
+## Multilingual websites
 [Article by Jeroen Breuer](https://24days.in/umbraco-cms/2015/multilingual-vorto-nested-content/) explaining how to make 1-1 multilingual website wit Vorto and Nested Content. [Example project on Github.](https://github.com/jbreuer/1-1-multilingual-example)
 
 ## Working with Umbraco
