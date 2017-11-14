@@ -21,7 +21,7 @@ The goal of this repo is to gather useful resources around the web to help peopl
 [Explanation how to work with uSync in different scenarios](http://blog.jumoo.co.uk/2017/working-with-usync/) by one and only [Kevin Jump](https://twitter.com/kevinjump_)
 
 ## Examine 
-[Overview & Explanation by Peter Gregory"](https://our.umbraco.org/documentation/reference/searching/examine/overview-explanation)
+[Overview & Explanation by Peter Gregory](https://our.umbraco.org/documentation/reference/searching/examine/overview-explanation)
 
 [Example by Rasmus Fjord](https://24days.in/umbraco-cms/2013/getting-started-with-examine/)
 
